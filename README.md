@@ -7,4 +7,5 @@ the speed of the participants is unpredicatible at any stage of the race.
 so to modify my code and make it more close to real-life situation, it would be better to use forward 
 function.
 
-right now, the most difficult part for me to do an OOP project is to identify all the 
+right now, the most difficult part for me to do an OOP project is to identify all the variables.
+it is really hard to tell which ones are objects, which ones are attributes now. i always got them messed up.
